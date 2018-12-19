@@ -1,0 +1,3 @@
+I have made a few assumptions that makes this application work as I believe it should.
+Assumption 1) Daily minimum and maximum temperature are round numbers, because thats how it was given in the weather.dat set.
+Assumption 2) If two days share the minimum difference then the earlier day will be returned.
